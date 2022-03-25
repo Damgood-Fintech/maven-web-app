@@ -96,16 +96,16 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-release/</url>
+	      <name>PrimeGlobal Releases Nexus Releases Repository</name>
+	      <url>http://192.168.1.240:8081/repository/GTHoldings_Login_Webapps_Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-snapshot/</url>
+	      <name>PrimeGlobal Releases Nexus Snapshoo Repository </name>
+	      <url>http://192.168.1.240:8081/repository/GTHoldings_Login_Webapps_Snapshot/</url>
 	    </snapshotRepository>
-	    
+	   
 	</distributionManagement>
 	
 	<build>
